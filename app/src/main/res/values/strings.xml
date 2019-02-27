@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="splash_text">splash screen</string>
+</resources>
